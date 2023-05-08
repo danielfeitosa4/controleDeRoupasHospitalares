@@ -12,7 +12,7 @@ Insira um gif ou um link de alguma demonstração
 
 ## Documentação
 
-[Documentação](https://docs.google.com/document/d/14iCGvsUsIIeYkkOma20lhWFIHy7q3Jn1-G3uO9H6bcU/edit?usp=share_link)
+[Documentação](https://docs.google.com/document/d/1a3FuawU2ixcZc22Fq7F97ypPyYeOQDIt/edit?usp=share_link&ouid=111929054979607261023&rtpof=true&sd=true)
 
 ## Documentação de cores
 

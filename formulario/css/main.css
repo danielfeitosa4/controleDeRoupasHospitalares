@@ -85,6 +85,18 @@ fieldset, legend {
   padding: 0;
 }
 
+/* Insert Logo SVG*/
+#svg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
+}
+
+.title {
+  text-align: center;
+}
+
 /**
  * Remove trailing margins from nested lists.
  */

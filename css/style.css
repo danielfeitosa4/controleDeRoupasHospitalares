@@ -1,5 +1,58 @@
+.heading-section {
+  color: #fff;
+}
+
 .img {
   background-image: url(../images/bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  height: 100vh;
+}
+
+#svg-logo {
+  width: 180px;
+}
+
+.form-group {
+  margin-top: 1rem;
+}
+
+.form-control {
+  background: transparent;
+  border: none;
+  height: 50px;
+  color: white !important;
+  border: 1px solid #fff;
+  background: rgba(255, 255, 255, 0.08) !important;
+  border-radius: 40px;
+  padding-left: 20px;
+  padding-right: 20px;
+  transition: 0.3s;
+  box-shadow: none !important;
+}
+
+.form-control:hover {
+  background: transparent;
+}
+
+.form-control::placeholder {
+  color: #fff !important;
+}
+
+.btn {
+  cursor: pointer;
+  border-radius: 40px;
+  box-shadow: none !important;
+  font-size: 15px;
+  text-transform: uppercase;
+}
+
+.btn.btn-primary {
+  background: #0B1F50 !important;
+  border: 1px solid #0B1F50 !important;
+  color: #fff !important;
+}
+
+::-webkit-scrollbar {
+  display: none;
 }
